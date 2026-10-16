@@ -1,5 +1,5 @@
 [celbridge]
-celbridge-version = "1.1.0"
+celbridge-version = "1.4.0"
 project-version = "1.0.0"
 
 # 'hide' keeps resources out of the Explorer tree. 'search-exclude' also keeps them out of search.

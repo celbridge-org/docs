@@ -40,7 +40,7 @@ nav = [
   ] },
   { "Examples of use" = [
     { "Hello World (Python)" = "08_use_cases/hello_world.md" },
-    # { "Web application file" = "08_use_cases/webapp.md" },
+    { "Export Project as ZIP archive" = "08_use_cases/export_archive.md" }
   ] },
 ]
 
