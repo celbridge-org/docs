@@ -6,7 +6,7 @@ keywords: FAQ
 
 ## What can I do with Celbridge? How much does it cost? What are the license terms?
 
-Celbridge is [Free and open source Software](https://en.wikipedia.org/wiki/Free_and_open_source_software)
+Celbridge is [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open_source_software)
 available under the [OSI-approved](https://opensource.org/licenses/MIT) MIT license. This means it is
 free as in "free speech" as well as in "free beer."
 
