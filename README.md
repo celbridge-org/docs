@@ -1,4 +1,4 @@
-# celbridge-docs
+# docs
 
 User documentation for Celbridge, the free and open source Python and data
 pipeline workbench.
